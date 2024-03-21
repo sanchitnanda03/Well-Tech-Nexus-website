@@ -1,5 +1,4 @@
-# Well-Tech-Nexus-website
-A website promoting mental health wellness
+
 # Well-Tech Nexus
 
 Welcome to Well-Tech Nexus, a website dedicated to promoting mental health wellness through technology.
