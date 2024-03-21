@@ -18,5 +18,5 @@ To access the website, simply open the `index.html` file in your web browser.
 ## Contact
 For any inquiries or support, please contact [Sanchit Nanda](mailto:sanchitnanda03@gmail.com).
 
-## Video Demo
-Check out our video demonstration of the Well-Tech Nexus website objectives: [Youtube Video](https:https://youtu.be/HPpeIl7YUL0)
+## Video on Objectives
+Check out the objectives and layout for Well-Tech Nexus: [Youtube Video](https://youtu.be/HPpeIl7YUL0)
